@@ -1,1 +1,1 @@
-# sohomd.github.io-PoseGaussian
+# PoseGaussian
