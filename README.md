@@ -1,7 +1,7 @@
 # PoseGaussian
 
 ## Demo Video
-[![Watch the demo](PoseComparison.png)](https://github.com/sohomd/PoseGaussian/raw/main/Demo.mp4)
+[![Watch the demo](image_2025-05-23_153016728)](https://github.com/sohomd/PoseGaussian/raw/main/Demo.mp4)
 ****
 #linux=22.04.5
 #python=3.10.13
