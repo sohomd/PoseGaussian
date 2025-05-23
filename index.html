@@ -2,99 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PoseGaussian Repo</title>
+  <title>Demo Video</title>
   <style>
     body {
-      margin: 0;
-      background: #0e0e0e;
-      overflow: hidden;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-family: sans-serif;
+      text-align: center;
+      padding: 2em;
+      background-color: #f9f9f9;
     }
-
-    .floating-text {
-      position: absolute;
-      color: #00ffcc;
-      font-size: 2em;
-      font-weight: bold;
-      animation: float 10s infinite ease-in-out;
-    }
-
-    .floating-image {
-      position: absolute;
-      width: 150px;
-      animation: floatImg 12s infinite ease-in-out;
-    }
-
-    @keyframes float {
-      0% {
-        top: 10%;
-        left: 10%;
-        transform: rotate(0deg);
-      }
-      25% {
-        top: 20%;
-        left: 70%;
-        transform: rotate(15deg);
-      }
-      50% {
-        top: 60%;
-        left: 50%;
-        transform: rotate(-10deg);
-      }
-      75% {
-        top: 80%;
-        left: 20%;
-        transform: rotate(20deg);
-      }
-      100% {
-        top: 10%;
-        left: 10%;
-        transform: rotate(0deg);
-      }
-    }
-
-    @keyframes floatImg {
-      0% {
-        top: 30%;
-        left: 70%;
-        transform: scale(1) rotate(0deg);
-      }
-      25% {
-        top: 40%;
-        left: 20%;
-        transform: scale(1.1) rotate(10deg);
-      }
-      50% {
-        top: 70%;
-        left: 60%;
-        transform: scale(0.9) rotate(-10deg);
-      }
-      75% {
-        top: 50%;
-        left: 80%;
-        transform: scale(1.05) rotate(5deg);
-      }
-      100% {
-        top: 30%;
-        left: 70%;
-        transform: scale(1) rotate(0deg);
-      }
-    }
-
-    .blur-bg {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      background: radial-gradient(circle, #00ffcc33, #000000);
-      filter: blur(60px);
-      z-index: -1;
+    video {
+      max-width: 90%;
+      height: auto;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
     }
   </style>
 </head>
 <body>
-  <div class="blur-bg"></div>
-  <div class="floating-text">PoseGaussian Repo</div>
-  <img src="PoseComparison.png" alt="Pose Comparison" class="floating-image">
+
+  <h1>Demo Video</h1>
+  <video controls>
+    <source src="Demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
 </body>
 </html>
