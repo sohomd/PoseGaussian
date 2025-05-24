@@ -1,6 +1,6 @@
 # PoseGaussian: Pose-Driven Novel View Synthesis for Human Representation
 
-<a ng-if="options.download" ng-href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" target="__self" class="btn btn-outline-primary btn-sm ng-scope" href="https://anonymous.4open.science/api/repo/PoseGaussian/zip)" >Download Repository</a>
+<a ng-if="options.download" ng-href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" target="__self" class="btn btn-outline-primary btn-sm ng-scope" href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" >Download Repository</a>
 
 
 
