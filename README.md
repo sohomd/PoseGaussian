@@ -18,22 +18,16 @@ conda env create --file environment.yml
 
 conda activate PoseGaussian
 ```
-#linux=22.04.5
-#python=3.10.13
-#cuda=11.8
-
-
-
-conda env create --file environment.yml
-
-conda activate PoseGaussian
-
-
+Install diff-gaussian-rasterization
+```setup
 git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
 
 cd gaussian-splatting/
 
+conda activate PoseGaussian
+
 pip install -e submodules/diff-gaussian-rasterization
+```
 
 cd ..
 
