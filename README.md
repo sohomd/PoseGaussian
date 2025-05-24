@@ -40,8 +40,10 @@ python setup.py install
 cd ../..
 
 ```
-#More detailed Installation steps in https://mmpose.readthedocs.io/en/latest/installation.html
 Install Pose detector MMPose
+
+#More detailed Installation steps in https://mmpose.readthedocs.io/en/latest/installation.html
+
 ```setup
 git clone https://github.com/open-mmlab/mmpose.git
 
