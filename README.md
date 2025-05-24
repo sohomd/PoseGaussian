@@ -2,7 +2,7 @@
 
 <a ng-if="options.download" ng-href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" target="__self"  href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" >Download Repository</a>
 
-<a href="https://anonymous.4open.science/r/PoseGaussian/assets/PoseGaussian.pdf" target="_blank">Open PDF Document</a>
+<a href="https://anonymous.4open.science/r/PoseGaussian/PoseGaussian.pdf" target="_blank">Open PDF Document</a>
 
 
 
