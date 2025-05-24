@@ -1,6 +1,7 @@
 # PoseGaussian
 
-https://github.com/sohomd/PoseGaussian/blob/main/Demo.mp4
+[![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)
+
 
 #linux=22.04.5
 #python=3.10.13
