@@ -9,6 +9,8 @@ linux=22.04.5,
 python=3.10.13,
 cuda=11.8
 
+Train on THuman2.0
+
 ## Installation
 Configure the environment
 ```setup
@@ -20,7 +22,7 @@ conda activate PoseGaussian
 #python=3.10.13
 #cuda=11.8
 
-#Train on THuman2.0
+
 
 conda env create --file environment.yml
 
