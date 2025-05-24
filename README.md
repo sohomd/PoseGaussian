@@ -60,41 +60,26 @@ mim download mmpose --config td-hm_hrnet-w48_8xb32-210e_coco-256x192  --dest .
 ```setup
 cp "PATH TO ROOT FOLDER/heatmap.py" .
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Download render_data and real_data from URL below extract the data in PoseGaussian folder
-
+```setup
+cp "PATH TO ROOT FOLDER/heatmap.py" .
+```
+# Training
+```setup
+conda deactivate
+cd ..
+```
 # give the train/img and val/img path for render_data and train path for generating heatmap folder
 python heatmap.py
 
 #Note: The data path of heatmap will be same as img folder in train and val
 
-cd ..
 
-conda deactivate
+
+
 
 #For training
 
-python trainer.py
+
 
 #For testing
 python test.py \
