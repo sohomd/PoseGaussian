@@ -10,7 +10,11 @@ python=3.10.13,
 cuda=11.8
 
 ## Installation
+```setup
+conda env create --file environment.yml
 
+conda activate PoseGaussian
+```
 #linux=22.04.5
 #python=3.10.13
 #cuda=11.8
