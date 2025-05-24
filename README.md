@@ -1,1 +1,15 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Demo Video</title>
+</head>
+<body style="display:flex;flex-direction:column;align-items:center;margin:40px">
+  <h2>🎥 Demo Video</h2>
+  <video width="720" controls autoplay muted>
+    <source src="Demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</body>
+</html>
