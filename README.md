@@ -40,21 +40,30 @@ python setup.py install
 cd ../..
 
 ```
-
-
-
-
-
-
-
-
-
-
+#More detailed Installation steps in https://mmpose.readthedocs.io/en/latest/installation.html
+Install Pose detector MMPose
+```setup
 git clone https://github.com/open-mmlab/mmpose.git
 
 cd mmpose
 
-#More detailed Installation steps in https://mmpose.readthedocs.io/en/latest/installation.html
+python setup.py install
+
+cd ../..
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 conda create --name openmmlab python=3.8 -y
 
