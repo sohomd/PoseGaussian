@@ -65,8 +65,13 @@ pip install -v -e .
 mim install "mmdet>=3.1.0"
 mim download mmpose --config td-hm_hrnet-w48_8xb32-210e_coco-256x192  --dest .
 ```
+Copy the heatmap.py to mmpose folder
 ```setup
 cp "PATH TO ROOT FOLDER/heatmap.py" .
+```
+Run heatmap.py
+```setup
+python heatmap.py
 ```
 ```setup
 conda deactivate
