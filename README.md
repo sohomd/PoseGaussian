@@ -28,16 +28,25 @@ conda activate PoseGaussian
 
 pip install -e submodules/diff-gaussian-rasterization
 ```
-
+```setup
 cd ..
 
 git clone https://github.com/princeton-vl/RAFT-Stereo.git
 
-cd RAFT-Stereo/sampler
-
 python setup.py install
 
 cd ../..
+
+```
+
+
+
+
+
+
+
+
+
 
 git clone https://github.com/open-mmlab/mmpose.git
 
