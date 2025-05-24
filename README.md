@@ -61,12 +61,12 @@ mim download mmpose --config td-hm_hrnet-w48_8xb32-210e_coco-256x192  --dest .
 cp "PATH TO ROOT FOLDER/heatmap.py" .
 ```
 ```setup
-cp "PATH TO ROOT FOLDER/heatmap.py" .
+conda deactivate
+cd ..
 ```
 # Training
 ```setup
-conda deactivate
-cd ..
+python trainer.py
 ```
 # give the train/img and val/img path for render_data and train path for generating heatmap folder
 python heatmap.py
