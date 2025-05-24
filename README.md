@@ -21,22 +21,16 @@ conda activate PoseGaussian
 Install diff-gaussian-rasterization
 ```setup
 git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
-
 cd gaussian-splatting/
-
 conda activate PoseGaussian
-
 pip install -e submodules/diff-gaussian-rasterization
 ```
  RAFT-Stereo implementation of the correlation sample
  
 ```setup
 cd ..
-
 git clone https://github.com/princeton-vl/RAFT-Stereo.git
-
 python setup.py install
-
 cd ../..
 
 ```
@@ -46,33 +40,21 @@ Install Pose detector MMPose
 
 ```setup
 git clone https://github.com/open-mmlab/mmpose.git
-
 cd mmpose
-
 conda create --name openmmlab python=3.8 -y
-
 conda activate openmmlab
-
 conda install pytorch torchvision -c pytorch
-
 pip install -U openmim
-
 mim install mmengine
-
 mim install "mmcv>=2.0.1"
-
 mim install "mmdet>=3.1.0"
-
+```
+```setup
 git clone https://github.com/open-mmlab/mmpose.git
-
 cd mmpose
-
 pip install -r requirements.txt
-
 pip install -v -e .
-
 mim install "mmdet>=3.1.0"
-
 mim download mmpose --config td-hm_hrnet-w48_8xb32-210e_coco-256x192  --dest .
 ```
 
