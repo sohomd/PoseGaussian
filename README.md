@@ -8,7 +8,7 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
 linux=22.04.5,
 python=3.10.13,
 cuda=11.8
-
+## Dataset
 Train on THuman2.0
 
 Download render_data and real_data from URL below extract the data in PoseGaussian folder
