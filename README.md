@@ -5,6 +5,8 @@
 
 [![Watch the demo]](https://www.youtube.com/watch?v=7TybETlCslM))
 
+🎥 [Click here to watch the video](http://sohomd.github.io/PoseGaussian/)
+
 #linux=22.04.5
 #python=3.10.13
 #cuda=11.8
