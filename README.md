@@ -3,7 +3,7 @@
 [![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)
 
 
-[![Watch the demo](thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=7TybETlCslM))
+[![Watch the demo]](https://www.youtube.com/watch?v=7TybETlCslM))
 
 #linux=22.04.5
 #python=3.10.13
