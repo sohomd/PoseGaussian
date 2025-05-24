@@ -1,9 +1,6 @@
 # PoseGaussian: Pose-Driven Novel View Synthesis for Human Representation
 
-<a href="/api/repo/PoseGaussian/zip" download>
-  <p>download here</p>
-</a>
-
+<a ng-if="options.download" ng-href="/api/repo/PoseGaussian/zip" target="__self" class="btn btn-outline-primary btn-sm ng-scope" href="/api/repo/PoseGaussian/zip">Download Repository</a>
 This repository is the official implementation of PoseGaussian: Pose-Driven Novel View Synthesis for Human Representation.
 
 [![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)
