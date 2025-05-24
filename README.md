@@ -68,22 +68,12 @@ cd ..
 ```setup
 python trainer.py
 ```
-# give the train/img and val/img path for render_data and train path for generating heatmap folder
-python heatmap.py
-
-#Note: The data path of heatmap will be same as img folder in train and val
-
-
-
-
-
-#For training
-
-
-
-#For testing
+# Testing
+```setup
 python test.py \
 --test_data_root 'real_data' \
 --ckpt_path 'PATH/TO/PoseGaussian_pose.pth' \
 --src_view 0 1 \
 --ratio=0.5
+```
+
