@@ -3,7 +3,7 @@
 [![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)
 
 
-<iframe width="1043" height="695" src="https://www.youtube.com/embed/7TybETlCslM" title="ESWEEK 2021 Education - Spiking Neural Networks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the demo](thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=7TybETlCslM))
 
 #linux=22.04.5
 #python=3.10.13
