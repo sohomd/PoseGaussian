@@ -28,6 +28,8 @@ conda activate PoseGaussian
 
 pip install -e submodules/diff-gaussian-rasterization
 ```
+ RAFT-Stereo implementation of the correlation sample
+ 
 ```setup
 cd ..
 
