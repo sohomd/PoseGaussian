@@ -5,8 +5,8 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
 [![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)
 
 ## Requirements
-linux=22.04.5
-python=3.10.13
+linux=22.04.5,
+python=3.10.13,
 cuda=11.8
 
 ## Installation
