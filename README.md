@@ -10,6 +10,7 @@ python=3.10.13,
 cuda=11.8
 
 ## Installation
+Configure the environment
 ```setup
 conda env create --file environment.yml
 
