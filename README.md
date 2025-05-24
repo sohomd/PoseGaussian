@@ -1,6 +1,7 @@
 # PoseGaussian: Pose-Driven Novel View Synthesis for Human Representation
 
 This repository is the official implementation of PoseGaussian: Pose-Driven Novel View Synthesis for Human Representation.
+
 [![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)
 
 
