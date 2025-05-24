@@ -1,15 +1,14 @@
 # PoseGaussian: Pose-Driven Novel View Synthesis for Human Representation
 
-<a ng-if="options.download" ng-href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" target="__self"  href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" >Download Repository</a>
-
-<a href="https://anonymous.4open.science/r/PoseGaussian/docs/PoseGaussian.pdf" target="_blank">Open PDF Document</a>
-
-
 
 
 This repository is the official implementation of PoseGaussian: Pose-Driven Novel View Synthesis for Human Representation.
 
 [![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)
+
+<a ng-if="options.download" ng-href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" target="__self"  href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" >Download Repository</a>
+
+<a href="https://anonymous.4open.science/r/PoseGaussian/docs/PoseGaussian.pdf" target="_blank">[Paper]</a>
 
 ## Requirements
 linux=22.04.5,
