@@ -10,6 +10,7 @@ python=3.10.13,
 cuda=11.8
 
 Train on THuman2.0
+
 Download render_data and real_data from URL below extract the data in PoseGaussian folder
 
 ## Installation
