@@ -120,7 +120,7 @@ cd ..
 python trainer.py
 ```
 # Testing
-
+Testing data samples
 
 <table>
   <tr>
@@ -157,6 +157,7 @@ python trainer.py
   </tr>
 </table>
 
+Run the command with changing path input parameters
 
 ```setup
 python test.py \
