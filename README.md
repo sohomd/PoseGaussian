@@ -15,7 +15,10 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
 <table>
   <tr>
     <td>
-     https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4
+    <video controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
   </tr>
 </table>
