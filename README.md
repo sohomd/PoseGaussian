@@ -8,7 +8,7 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
 
 <a ng-if="options.download" ng-href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" target="__self"  href="https://anonymous.4open.science/api/repo/PoseGaussian/zip" >[Source Code]</a>
 
-<a href="https://anonymous.4open.science/r/PoseGaussian/docs/PoseGaussian.pdf" target="_blank">[Draft Paper]</a>
+<a href="https://anonymous.4open.science/r/PoseGaussian/docs/PoseGaussian.pdf" target="_blank">[Paper Draft]</a>
 
 ## Customized Dataset Sample
 
