@@ -14,13 +14,34 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
 
 <table>
   <tr>
-    <td>[![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)</td>
-    <td>[![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)</td>
-    <td>[![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)</td>
-    <td>[![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)</td>
-    <td>[![Watch the demo](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png)](https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4)</td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
+        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
+        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
+        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
+        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
+        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 ## Requirements
 linux=22.04.5,
