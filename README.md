@@ -56,6 +56,8 @@ cuda=11.8
 Train on THuman2.0
 
 Download render_data and real_data from URL below extract the data in PoseGaussian folder
+[📥 render_data_data](https://udayton0-my.sharepoint.com/:u:/g/personal/dasguptas2_udayton_edu/Eb9h6FKKqf9Cq0Q0ynIGVhcB1FPJ98EAnXipzGRrYK7SdA?e=JaOYpN)
+[📥 real_data](https://udayton0-my.sharepoint.com/:u:/g/personal/dasguptas2_udayton_edu/EQGmdOFq_qpDnNMpJeOuPxIB0OUFgWyyNJRTQb7GP_oRDQ?e=t5imkG)
 
 ## Installation
 Configure the environment
