@@ -120,6 +120,8 @@ cd ..
 python trainer.py
 ```
 # Testing
+
+
 <table>
   <tr>
     <td width="200">
@@ -154,6 +156,8 @@ python trainer.py
     </td>
   </tr>
 </table>
+
+
 ```setup
 python test.py \
 --test_data_root 'real_data' \
