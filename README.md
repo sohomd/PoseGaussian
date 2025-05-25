@@ -10,6 +10,8 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
 
 <a href="https://anonymous.4open.science/r/PoseGaussian/docs/PoseGaussian.pdf" target="_blank">[Draft Paper]</a>
 
+## Customized Dataset Sample
+
 ## Requirements
 linux=22.04.5,
 python=3.10.13,
