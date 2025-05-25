@@ -120,6 +120,40 @@ cd ..
 python trainer.py
 ```
 # Testing
+<table>
+  <tr>
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
 ```setup
 python test.py \
 --test_data_root 'real_data' \
