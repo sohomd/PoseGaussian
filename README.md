@@ -15,29 +15,34 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
 <table>
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
-        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
-      </a>
+      <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
-        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
-      </a>
+      <video width="200" controls>
+        <source src="assets/Demo2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
-        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
-      </a>
+      <video width="200" controls>
+        <source src="assets/Demo3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
-        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
-      </a>
+      <video width="200" controls>
+        <source src="assets/Demo4.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/Demo.mp4">
-        <img src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/thumbnail.png" width="150"/>
-      </a>
+      <video width="200" controls>
+        <source src="assets/Demo5.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
   </tr>
 </table>
