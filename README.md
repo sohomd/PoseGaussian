@@ -161,7 +161,7 @@ Testing data samples
   </tr>
 </table>
 
-Run the command with changing path input parameters
+Run the command with changing path in input parameters
 
 ```setup
 python test.py \
