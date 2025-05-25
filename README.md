@@ -59,7 +59,7 @@ Download render_data and real_data from URL below extract the data in PoseGaussi
 
 [Training: render_data](https://tinyurl.com/43892jf7)
 
-[Testing: real_data](https://tinyurl.com/595b97t8)
+[Testing: real_data](https://tinyurl.com/yp8r3ubz)
 
 ## Installation
 Configure the environment
