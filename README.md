@@ -57,7 +57,7 @@ Train on THuman2.0
 
 Download render_data and real_data from URL below extract the data in PoseGaussian folder
 
-[Training: render_data](https://tinyurl.com/43892jf7)
+[Training: render_data](https://tinyurl.com/ywa59d5u)
 
 [Testing: real_data](https://tinyurl.com/yp8r3ubz)
 
