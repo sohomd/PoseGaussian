@@ -16,25 +16,25 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
   <tr>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/H11.mp4" type="video/mp4">
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/H11.mov" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/H2.mp4" type="video/mp4">
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/H2.mov" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/H33.mp4" type="video/mp4">
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/H33.mov" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/H4.mp4" type="video/mp4">
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/H4.mov" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
