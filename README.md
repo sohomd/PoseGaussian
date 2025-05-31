@@ -10,7 +10,7 @@ This repository is the official implementation of PoseGaussian: Pose-Driven Nove
 
 <a href="https://anonymous.4open.science/r/PoseGaussian/docs/PoseGaussian.pdf" target="_blank">[Paper Draft]</a>
 
-## Customized Dataset Sample
+## Customized Sample Data
 
 <table>
   <tr>
